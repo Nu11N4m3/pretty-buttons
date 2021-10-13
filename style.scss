@@ -1,7 +1,9 @@
+@import "./assets/variables";
+
 .bnt{
     display: inline-block;
     font-weight: 400;
-    color: #212529;
+    color: $font-black;
     text-align: center;
     vertical-align: middle;
     -webkit-user-select: none;
