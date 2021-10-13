@@ -23,4 +23,10 @@
         background-color: $primary-color;
         border-color: $primary-color;
     }
+
+    &-secondary{
+        color: $font-white;
+        background-color: $secondary-color;
+        border-color: $secondary-color;
+    }
 }
