@@ -41,4 +41,10 @@
         background-color: $danger-color;
         border-color: $danger-color;
     }
+
+    &-warning{
+        color: $font-black;
+        background-color: $warning-color;
+        border-color: $warning-color;
+    }
 }
