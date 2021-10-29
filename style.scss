@@ -35,4 +35,10 @@
         background-color: $success-color;
         border-color: $success-color;
     }
+
+    &-danger{
+        color: $font-white;
+        background-color: $danger-color;
+        border-color: $danger-color;
+    }
 }
