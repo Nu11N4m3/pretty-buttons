@@ -47,4 +47,10 @@
         background-color: $warning-color;
         border-color: $warning-color;
     }
+
+    &-info{
+        color: $font-white;
+        background-color: $info-color;
+        border-color: $info-color;
+    }
 }
