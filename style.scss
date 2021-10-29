@@ -29,4 +29,10 @@
         background-color: $secondary-color;
         border-color: $secondary-color;
     }
+
+    &-success{
+        color: $font-white;
+        background-color: $success-color;
+        border-color: $success-color;
+    }
 }
